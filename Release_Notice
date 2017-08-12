@@ -1,0 +1,11 @@
+soot
+============================
+Change this folder to soot after cloning the repository.
+
+Adding file list
+============================
+package nu
+
+Modifying file list
+============================
+soot.toolkits.graph
